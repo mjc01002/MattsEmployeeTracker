@@ -1,0 +1,21 @@
+{
+  "name": "mattsemployeetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjc01002/MattsEmployeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjc01002/MattsEmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/mjc01002/MattsEmployeeTracker#readme"
+}
