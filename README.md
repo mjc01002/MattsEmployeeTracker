@@ -19,4 +19,4 @@ Email me: stoncalkins@gmail.com<br /><br />
 https://github.com/mjc01002/MattsReadMeGenerator/blob/main/video/Untitled_%20Nov%2028%2C%202021%205_10%20PM.webm
 
 ## ScreenShot of Application
-![Image of Website](https://github.com/mjc01002/MattsReadMeGenerator/blob/main/screenshot.PNG?raw=true)
+![Image of Website](https://github.com/mjc01002/MattsEmployeeTracker/blob/main/assets/screenshot.PNG?raw=true)
